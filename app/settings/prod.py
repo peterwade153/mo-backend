@@ -1,4 +1,4 @@
-import dj_database_url7
+import dj_database_url
 from .base import *
 
 
