@@ -1,3 +1,4 @@
+[![Django CI](https://github.com/peterwade153/mo-backend/actions/workflows/django.yml/badge.svg)](https://github.com/peterwade153/mo-backend/actions/workflows/django.yml)
 # mo-backend
 
 Track service providers locations
